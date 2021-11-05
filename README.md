@@ -1,16 +1,8 @@
-# settingspage
+# practise_with_provider
+This project is for practise only with the provider. Ignore any functionality and UI part.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://ibb.co/KqrmKRg"><img src="https://i.ibb.co/hWmCYhN/ezgif-com-gif-maker.gif" alt="ezgif-com-gif-maker" border="0" width=250></a>
+<a href="https://ibb.co/rQ86jcr"><img src="https://i.ibb.co/K54qPLv/Screenshot-1636134034.png" alt="Screenshot-1636134034" border="0" width=200></a>
+<a href="https://ibb.co/89FkHM2"><img src="https://i.ibb.co/dDnZRB6/Screenshot-1636134027.png" alt="Screenshot-1636134027" border="0" width=200></a>
+<a href="https://ibb.co/QfPLsm5"><img src="https://i.ibb.co/zrXpKfk/Screenshot-1636134019.png" alt="Screenshot-1636134019" border="0" width=200></a>
+<a href="https://ibb.co/6RZvQmb"><img src="https://i.ibb.co/FbWspKJ/Screenshot-1636132617.png" alt="Screenshot-1636132617" border="0" width=200></a>
